@@ -1,0 +1,598 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426014401@s.whatsapp.net',
+    fromMe: false,
+    id: '3FC2167995F222AE5806',
+    participant: undefined
+  },
+  messageTimestamp: 1751045437,
+  pushName: 'Ricardo Flores',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5214426014401'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_94d91946-a447-47d0-a4e6-90a1de6717f3',
+  keyword: 'key_04b4214b-5cef-4719-a229-f4ab5d00fa95',
+  answer: '🙋‍♀️ ¡Hola! *Soy el asistente virtual de RH en Josbris*. Por favor, selecciona una opción escribiendo la letra correspondiente:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3e836d59ce428611690310fb02f69ff6'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_85227c68-ebdf-4fb1-a703-2fe8d4ae9091',
+  keyword: 'ans_94d91946-a447-47d0-a4e6-90a1de6717f3',
+  answer: '*1*. 💰 Nómina / pagos 💵\n' +
+    '*2*. 📆 Permisos / Faltas y Asistencia 📋\n' +
+    '*3*. 🤒 Incapacidades 🏥\n' +
+    '*4*. 🏖️ Dudas de Vacaciones 📅\n' +
+    '*5*. 🗣️ Otras dudas. Enviar un mensaje directo al chat de RH 💬\n' +
+    '*6*. 📮 Buzón de quejas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e882a2271439d7fb8e4713042b8af9ca'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426014401@s.whatsapp.net',
+    fromMe: false,
+    id: '3F5BF590B9F063AF4211',
+    participant: undefined
+  },
+  messageTimestamp: 1751045439,
+  pushName: 'Ricardo Flores',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '6', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '6',
+  from: '5214426014401'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214428192434@s.whatsapp.net',
+    fromMe: false,
+    id: '3A9BD1296F3E297CBE1D',
+    participant: undefined
+  },
+  messageTimestamp: 1751045582,
+  pushName: 'Dal🌸',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menú',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Menú',
+  from: '5214428192434'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_94d91946-a447-47d0-a4e6-90a1de6717f3',
+  keyword: 'key_04b4214b-5cef-4719-a229-f4ab5d00fa95',
+  answer: '🙋‍♀️ ¡Hola! *Soy el asistente virtual de RH en Josbris*. Por favor, selecciona una opción escribiendo la letra correspondiente:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3e836d59ce428611690310fb02f69ff6'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_85227c68-ebdf-4fb1-a703-2fe8d4ae9091',
+  keyword: 'ans_94d91946-a447-47d0-a4e6-90a1de6717f3',
+  answer: '*1*. 💰 Nómina / pagos 💵\n' +
+    '*2*. 📆 Permisos / Faltas y Asistencia 📋\n' +
+    '*3*. 🤒 Incapacidades 🏥\n' +
+    '*4*. 🏖️ Dudas de Vacaciones 📅\n' +
+    '*5*. 🗣️ Otras dudas. Enviar un mensaje directo al chat de RH 💬\n' +
+    '*6*. 📮 Buzón de quejas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e882a2271439d7fb8e4713042b8af9ca'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214428192434@s.whatsapp.net',
+    fromMe: false,
+    id: '3ADC72FBBC0FE06D9FA2',
+    participant: undefined
+  },
+  messageTimestamp: 1751045588,
+  pushName: 'Dal🌸',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '5',
+  from: '5214428192434'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214428192434@s.whatsapp.net',
+    fromMe: false,
+    id: '3A8A7E1BBF3C7E8F5773',
+    participant: undefined
+  },
+  messageTimestamp: 1751045603,
+  pushName: 'Dal🌸',
+  broadcast: false,
+  message: Message {
+    conversation: 'Me duele la panza ( prueba)',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Me duele la panza ( prueba)',
+  from: '5214428192434'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214428192434@s.whatsapp.net',
+    fromMe: false,
+    id: '3A816E0EBFCA3A4504FE',
+    participant: undefined
+  },
+  messageTimestamp: 1751045611,
+  pushName: 'Dal🌸',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menú',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Menú',
+  from: '5214428192434'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_94d91946-a447-47d0-a4e6-90a1de6717f3',
+  keyword: 'key_04b4214b-5cef-4719-a229-f4ab5d00fa95',
+  answer: '🙋‍♀️ ¡Hola! *Soy el asistente virtual de RH en Josbris*. Por favor, selecciona una opción escribiendo la letra correspondiente:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3e836d59ce428611690310fb02f69ff6'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_85227c68-ebdf-4fb1-a703-2fe8d4ae9091',
+  keyword: 'ans_94d91946-a447-47d0-a4e6-90a1de6717f3',
+  answer: '*1*. 💰 Nómina / pagos 💵\n' +
+    '*2*. 📆 Permisos / Faltas y Asistencia 📋\n' +
+    '*3*. 🤒 Incapacidades 🏥\n' +
+    '*4*. 🏖️ Dudas de Vacaciones 📅\n' +
+    '*5*. 🗣️ Otras dudas. Enviar un mensaje directo al chat de RH 💬\n' +
+    '*6*. 📮 Buzón de quejas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e882a2271439d7fb8e4713042b8af9ca'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214428192434@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA6ACEA0240E039681F',
+    participant: undefined
+  },
+  messageTimestamp: 1751045615,
+  pushName: 'Dal🌸',
+  broadcast: false,
+  message: Message {
+    conversation: '6',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '6',
+  from: '5214428192434'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214428192434@s.whatsapp.net',
+    fromMe: false,
+    id: '3A0F355C6E4C3760B51C',
+    participant: undefined
+  },
+  messageTimestamp: 1751045627,
+  pushName: 'Dal🌸',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menú',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Menú',
+  from: '5214428192434'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_94d91946-a447-47d0-a4e6-90a1de6717f3',
+  keyword: 'key_04b4214b-5cef-4719-a229-f4ab5d00fa95',
+  answer: '🙋‍♀️ ¡Hola! *Soy el asistente virtual de RH en Josbris*. Por favor, selecciona una opción escribiendo la letra correspondiente:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3e836d59ce428611690310fb02f69ff6'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_85227c68-ebdf-4fb1-a703-2fe8d4ae9091',
+  keyword: 'ans_94d91946-a447-47d0-a4e6-90a1de6717f3',
+  answer: '*1*. 💰 Nómina / pagos 💵\n' +
+    '*2*. 📆 Permisos / Faltas y Asistencia 📋\n' +
+    '*3*. 🤒 Incapacidades 🏥\n' +
+    '*4*. 🏖️ Dudas de Vacaciones 📅\n' +
+    '*5*. 🗣️ Otras dudas. Enviar un mensaje directo al chat de RH 💬\n' +
+    '*6*. 📮 Buzón de quejas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e882a2271439d7fb8e4713042b8af9ca'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214428192434@s.whatsapp.net',
+    fromMe: false,
+    id: '3A44C6E9D7A78E8D3D08',
+    participant: undefined
+  },
+  messageTimestamp: 1751045634,
+  pushName: 'Dal🌸',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '5214428192434'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214428192434@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA5E5ACF0A54E491BD1',
+    participant: undefined
+  },
+  messageTimestamp: 1751045641,
+  pushName: 'Dal🌸',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '5214428192434'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214428192434@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD033A9674CB2FB5591',
+    participant: undefined
+  },
+  messageTimestamp: 1751045648,
+  pushName: 'Dal🌸',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menú',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Menú',
+  from: '5214428192434'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_94d91946-a447-47d0-a4e6-90a1de6717f3',
+  keyword: 'key_04b4214b-5cef-4719-a229-f4ab5d00fa95',
+  answer: '🙋‍♀️ ¡Hola! *Soy el asistente virtual de RH en Josbris*. Por favor, selecciona una opción escribiendo la letra correspondiente:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3e836d59ce428611690310fb02f69ff6'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_85227c68-ebdf-4fb1-a703-2fe8d4ae9091',
+  keyword: 'ans_94d91946-a447-47d0-a4e6-90a1de6717f3',
+  answer: '*1*. 💰 Nómina / pagos 💵\n' +
+    '*2*. 📆 Permisos / Faltas y Asistencia 📋\n' +
+    '*3*. 🤒 Incapacidades 🏥\n' +
+    '*4*. 🏖️ Dudas de Vacaciones 📅\n' +
+    '*5*. 🗣️ Otras dudas. Enviar un mensaje directo al chat de RH 💬\n' +
+    '*6*. 📮 Buzón de quejas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e882a2271439d7fb8e4713042b8af9ca'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214428192434@s.whatsapp.net',
+    fromMe: false,
+    id: '3A218CD281E89B11B2A8',
+    participant: undefined
+  },
+  messageTimestamp: 1751045653,
+  pushName: 'Dal🌸',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '4',
+  from: '5214428192434'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214428192434@s.whatsapp.net',
+    fromMe: false,
+    id: '3AFA3E59489755477262',
+    participant: undefined
+  },
+  messageTimestamp: 1751045669,
+  pushName: 'Dal🌸',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '5214428192434'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214428192434@s.whatsapp.net',
+    fromMe: false,
+    id: '3A95B9F5CE1050D17BA0',
+    participant: undefined
+  },
+  messageTimestamp: 1751045680,
+  pushName: 'Dal🌸',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menú',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Menú',
+  from: '5214428192434'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_94d91946-a447-47d0-a4e6-90a1de6717f3',
+  keyword: 'key_04b4214b-5cef-4719-a229-f4ab5d00fa95',
+  answer: '🙋‍♀️ ¡Hola! *Soy el asistente virtual de RH en Josbris*. Por favor, selecciona una opción escribiendo la letra correspondiente:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3e836d59ce428611690310fb02f69ff6'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_85227c68-ebdf-4fb1-a703-2fe8d4ae9091',
+  keyword: 'ans_94d91946-a447-47d0-a4e6-90a1de6717f3',
+  answer: '*1*. 💰 Nómina / pagos 💵\n' +
+    '*2*. 📆 Permisos / Faltas y Asistencia 📋\n' +
+    '*3*. 🤒 Incapacidades 🏥\n' +
+    '*4*. 🏖️ Dudas de Vacaciones 📅\n' +
+    '*5*. 🗣️ Otras dudas. Enviar un mensaje directo al chat de RH 💬\n' +
+    '*6*. 📮 Buzón de quejas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e882a2271439d7fb8e4713042b8af9ca'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214428192434@s.whatsapp.net',
+    fromMe: false,
+    id: '3A14A84E97EA6E1C607A',
+    participant: undefined
+  },
+  messageTimestamp: 1751045691,
+  pushName: 'Dal🌸',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '5214428192434'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214428192434@s.whatsapp.net',
+    fromMe: false,
+    id: '3A2740A429BDBA3B4F0F',
+    participant: undefined
+  },
+  messageTimestamp: 1751045697,
+  pushName: 'Dal🌸',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '5214428192434'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a2333ffa-c90d-4e0d-b89c-45cbf6f2d7d6',
+  keyword: 'ans_8bacbefc-df7a-40f0-ae7c-d4755c0a4177',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c333065f38b50b4d1c36742b994ec10d'
+}

@@ -1,0 +1,22 @@
+{
+  "name": "bot-josbris",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bot-whatsapp/bot": "^1.0.0",
+    "@bot-whatsapp/cli": "^1.0.0",
+    "@bot-whatsapp/database": "^1.0.0",
+    "@bot-whatsapp/portal": "^1.0.0",
+    "@bot-whatsapp/provider": "^1.0.0",
+    "@whiskeysockets/baileys": "6.5.0"
+  },
+  "description": "",
+  "devDependencies": {},
+  "keywords": [],
+  "type": "commonjs"
+}
